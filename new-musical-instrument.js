@@ -1,4 +1,4 @@
-//added background and metronome, tried to make the keys change the sound type but I couldn't figure it out
+//added background and metronome, gave the circles a line, tried to make the keys change the sound type but I couldn't figure it out
 var img;
 function preload() {
   img = loadImage('instrumentbg.jpg');
